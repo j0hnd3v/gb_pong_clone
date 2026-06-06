@@ -1,0 +1,16 @@
+# --- RGBDS Build Outputs ---
+*.o
+*.gb
+
+# --- Vim Temporary Files ---
+# Swap files
+.*.swp
+.*.swo
+# Undo files
+*.un~
+# Persistent undo history
+.*.un~
+# Backup files
+*~
+# Tag files (se usar ctags)
+tags
